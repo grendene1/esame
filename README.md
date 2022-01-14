@@ -21,7 +21,7 @@ Per effettuare le migrazioni **(nome del database: treebu)**, nella cartella del
 php artisan migrate
 ```
 
-## Tabelle createre
+## Tabelle create
 Ho creato una sola tabella di nome **farmlands** (nome in inglese plurale come va fatto per convenzione di Laravel) e ho creato il relativo modello **Farmland** (iniziale maiuscola perché è una classe).
 
 Le API lato server che ho creato sono: 
